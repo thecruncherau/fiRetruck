@@ -6,7 +6,7 @@ fiRetruck uses 9 characters: \!^+()[], and 3 functions: substr, paste0 and parse
 
 Here's the agenda, and feel free to contribute yourself to any:
   - [ ] Develop an API *or* an R package for easy conversions
-  - [ ] Add versions of fiRetruck in other languages 
+  - [ ] Add versions of fiRetruck in other languages to this repository
   - [ ] Check succinctness - is there a way to make fiRetruck outputs shorter by using 
     - [ ] ...the current character set?
     - [ ] ...alternate approaches?
